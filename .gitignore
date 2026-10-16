@@ -1,0 +1,11 @@
+.gradle/
+**/build/
+local.properties
+signing.properties
+*.jks
+*.keystore
+
+# Local test data, signing secrets and delivery binaries
+/work/
+/outputs/
+.DS_Store

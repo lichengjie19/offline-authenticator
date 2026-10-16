@@ -1,0 +1,219 @@
+Third-party runtime dependency notices
+Generated from resolved releaseRuntimeClasspath and unmodified cached upstream artifacts.
+License/NOTICE text below is preserved from distributed artifacts; matching text is stored once.
+ZXing notices remain in ZXing-LICENSE.txt and ZXing-NOTICE.txt.
+
+androidx.activity:activity:1.10.1
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  Bundled text: third-party/809fa1ed2145-LICENSE.txt
+
+androidx.annotation:annotation:1.8.1
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.annotation:annotation-experimental:1.4.1
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.annotation:annotation-jvm:1.8.1
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.appcompat:appcompat:1.1.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.appcompat:appcompat-resources:1.1.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.arch.core:core-common:2.2.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.arch.core:core-runtime:2.2.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.camera:camera-camera2:1.5.3
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  Bundled text: third-party/809fa1ed2145-LICENSE.txt
+
+androidx.camera:camera-core:1.5.3
+  Declared license: BSD License https://chromium.googlesource.com/libyuv/libyuv/+/refs/heads/main/README.chromium
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  Bundled text: third-party/809fa1ed2145-LICENSE.txt
+
+androidx.camera:camera-lifecycle:1.5.3
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  Bundled text: third-party/809fa1ed2145-LICENSE.txt
+
+androidx.camera:camera-video:1.5.3
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  Bundled text: third-party/809fa1ed2145-LICENSE.txt
+
+androidx.camera:camera-view:1.5.3
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  Bundled text: third-party/809fa1ed2145-LICENSE.txt
+
+androidx.camera.featurecombinationquery:featurecombinationquery:1.5.3
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  Bundled text: third-party/809fa1ed2145-LICENSE.txt
+
+androidx.collection:collection:1.1.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.concurrent:concurrent-futures:1.1.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.concurrent:concurrent-futures-ktx:1.1.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.core:core:1.13.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.core:core-ktx:1.13.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.core:core-viewtree:1.0.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  Bundled text: third-party/809fa1ed2145-LICENSE.txt
+
+androidx.cursoradapter:cursoradapter:1.0.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.customview:customview:1.0.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.drawerlayout:drawerlayout:1.0.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.exifinterface:exifinterface:1.4.2
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  Bundled text: third-party/809fa1ed2145-LICENSE.txt
+
+androidx.fragment:fragment:1.1.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.interpolator:interpolator:1.0.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.lifecycle:lifecycle-common:2.6.2
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.lifecycle:lifecycle-livedata:2.6.2
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.lifecycle:lifecycle-livedata-core:2.6.2
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.lifecycle:lifecycle-runtime:2.6.2
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.lifecycle:lifecycle-viewmodel:2.6.2
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.loader:loader:1.0.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.profileinstaller:profileinstaller:1.4.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  Bundled text: third-party/809fa1ed2145-LICENSE.txt
+
+androidx.savedstate:savedstate:1.2.1
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.startup:startup-runtime:1.1.1
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.tracing:tracing:1.2.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.tracing:tracing-ktx:1.2.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.vectordrawable:vectordrawable:1.1.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.vectordrawable:vectordrawable-animated:1.1.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.versionedparcelable:versionedparcelable:1.1.1
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+androidx.viewpager:viewpager:1.0.0
+  Declared license: The Apache Software License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+com.google.auto.value:auto-value-annotations:1.6.3
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+com.google.guava:listenablefuture:1.0
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+com.google.zxing:core:3.5.4
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+org.jetbrains:annotations:23.0.0
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+org.jetbrains.kotlin:kotlin-stdlib:2.0.21
+  Declared license: The Apache License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1
+  Declared license: The Apache Software License, Version 2.0 https://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+org.jetbrains.kotlinx:kotlinx-coroutines-bom:1.8.1
+  Declared license: The Apache Software License, Version 2.0 https://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.1
+  Declared license: The Apache Software License, Version 2.0 https://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.8.1
+  Declared license: The Apache Software License, Version 2.0 https://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+org.jspecify:jspecify:1.0.0
+  Declared license: The Apache License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.txt
+  No standalone license/NOTICE text present in the cached binary artifact; see its declared upstream license above.
+
+
+Supplemental upstream license/NOTICE texts bundled with this app:
+  third-party/809fa1ed2145-LICENSE.txt
+  third-party/JetBrains-Annotations-23.0.0-LICENSE.txt
+  third-party/Kotlin-2.0.21-LICENSE.txt
+  third-party/Kotlin-2.0.21-NOTICE.txt
+  third-party/Kotlinx-Coroutines-1.8.1-LICENSE.txt
+  third-party/libyuv-LICENSE.txt
+  CameraX camera-core includes libyuv; retain third-party/libyuv-LICENSE.txt.
